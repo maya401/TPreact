@@ -1,5 +1,5 @@
 import HeaderSection from "./components/header"
-
+import './index.css'
 
 function App() {
   
