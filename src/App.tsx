@@ -1,12 +1,12 @@
 import HeaderSection from "./components/header"
-import './index.css'
+import Partenaire from "./components/partenaire"
 
 function App() {
   
-
   return (
     <>
         <HeaderSection/>
+        <Partenaire/>
     </>
     
   )
